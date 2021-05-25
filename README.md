@@ -1,4 +1,4 @@
-### Hi there, Welcome to my Github. I'm Hyoungjoon Lim
+## Hi there, Welcome to my Github. I'm Hyoungjoon Lim
 
 ### 0. Summary
 데이터를 수집하고, 전처리한 후, 적합한 분석 방법을 고민하고 적용한 뒤 그 결과를 다른 사람들에게 전달하는 일을 해왔습니다. 공간 빅데이터를 다루는 연구실에서 석사 학위를 취득한 뒤 대형 보험사에서 데이터를 분석하는 일을 하고 있습니다.
