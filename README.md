@@ -44,7 +44,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 * 2010.03 ~ 2012.02 : Hansung Science High School, Seoul, Republic of Korea
 * 2012.03 ~ 2018.02 : B.S., Civil & Environmental Engineering, Yonsei University, Seoul, Republic of Korea
 * 2018.03 ~ 2020.02 : M.S., Civil & Environmental Engineering (Spatial Data Science), Yonsei University, Seoul, Republic of Korea
-  - Thesis : Graph learning approaches for taxi demand estimation with Seoul taxi trajectory data
+  - Thesis : [Graph learning approaches for taxi demand estimation with Seoul taxi trajectory data](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=a8f0178212fa9aedffe0bdc3ef48d419)
 
 ### 2. Employment
 * 2019.12 ~ Present : KB Insurance Co., Ltd. (Digital Business Dept.)
@@ -52,25 +52,25 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 ### 3. Publication (in chronological order)
 [1] [Yun, S. B., Hieu, N. M., Park, S. Y., **Lim, H.**, & Heo, J. (2018). Implementation of Floating Population Analysis for Smart Cities: A case study in Songdo Incheon South Korea. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 32-36).](https://dl.acm.org/doi/abs/10.1145/3283590.3283595)
 
-[2] Ju, S., Park, S., **Lim, H.**, Yun, S. B., & Heo, J. (2018). Spatial-data-driven student characterization: Trajectory sequence alignment based on student smart card transactions. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 1-7).
+[2] [Ju, S., Park, S., **Lim, H.**, Yun, S. B., & Heo, J. (2018). Spatial-data-driven student characterization: Trajectory sequence alignment based on student smart card transactions. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 1-7).](https://dl.acm.org/doi/abs/10.1145/3283590.3283591)
 
-[3] Yun, S. B., Ju, S., **Lim, H.**, Park, S., & Heo, J. (2019). Data-Driven Dynamic Service Area Analysis: A Case Study with Taxi GPS Data in Seoul, South Korea. In *Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience* (pp. 374-381). ASCE.
+[3] [Yun, S. B., Ju, S., **Lim, H.**, Park, S., & Heo, J. (2019). Data-Driven Dynamic Service Area Analysis: A Case Study with Taxi GPS Data in Seoul, South Korea. In *Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience* (pp. 374-381). ASCE.](https://ascelibrary.org/doi/abs/10.1061/9780784482445.048)
 
-[4] Heo, J., **Lim, H.**, Yun, S. B., Ju, S., Park, S., & Lee, R. (2019). Descriptive and predictive modeling of student achievement, satisfaction, and mental health for data-driven smart connected campus life service. In *Proceedings of the 9th International Conference on Learning Analytics & Knowledge* (pp. 531-538).
+[4] [Heo, J., **Lim, H.**, Yun, S. B., Ju, S., Park, S., & Lee, R. (2019). Descriptive and predictive modeling of student achievement, satisfaction, and mental health for data-driven smart connected campus life service. In *Proceedings of the 9th International Conference on Learning Analytics & Knowledge* (pp. 531-538).](https://dl.acm.org/doi/abs/10.1145/3303772.3303792)
 
 [5] **Lim, H.**, Kim, S., & Heo, J. (2019) Community detection in Seoul using origin-destination data from mobile networks. *한국데이터정보과학회 춘계학술대회*.
 
-[6] **Lim, H.**, Kim, S., & Heo, J. (2019) Outliers of the Official Land Price and Their Price Trend by Floating Population Data: A Case of Gangnam-Gu, Seoul, *The Korea Society For GeospatIal Information System*, 27(5), 41-49.
+[6] [**Lim, H.**, Kim, S., & Heo, J. (2019) Outliers of the Official Land Price and Their Price Trend by Floating Population Data: A Case of Gangnam-Gu, Seoul, *The Korea Society For GeospatIal Information System*, 27(5), 41-49.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002505506)
 
-[7] **Lim, H.**, Kim, S., & Heo, J. (2019). Graph analyses of phone-based origin-destination data for understanding urban human mobility in seoul, korea. In *Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Prediction of Human Mobility* (pp. 62-65).
+[7] [**Lim, H.**, Kim, S., & Heo, J. (2019). Graph analyses of phone-based origin-destination data for understanding urban human mobility in seoul, korea. In *Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Prediction of Human Mobility* (pp. 62-65).](https://dl.acm.org/doi/abs/10.1145/3356995.3364539)
 
-[8] Ju, S., **Lim, H.**, & Heo, J. (2020). Machine learning approaches for crop yield prediction with MODIS and weather data. In *40th Asian Conference on Remote Sensing: Progress of Remote Sensing Technology for Smart Future*, ACRS 2019.
+[8] [Ju, S., **Lim, H.**, & Heo, J. (2020). Machine learning approaches for crop yield prediction with MODIS and weather data. In *40th Asian Conference on Remote Sensing: Progress of Remote Sensing Technology for Smart Future*, ACRS 2019.](https://a-a-r-s.org/proceeding/ACRS2019/TuP-11.pdf)
 
-[9] Kim, S., **Lim, H.**, & Heo, J. (2020). Analysis of Seoul Living Sphere using Origin-Destination Data from a Mobile Phone Network, *The Korea Society For GeospatIal Information System*, 28(1), 3-10.
+[9] [Kim, S., **Lim, H.**, & Heo, J. (2020). Analysis of Seoul Living Sphere using Origin-Destination Data from a Mobile Phone Network, *The Korea Society For GeospatIal Information System*, 28(1), 3-10.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002571258)
 
 [10] **Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2021).  Is college students’ trajectory associated with academic performance?, *The Internet and Higher Education* (Under review)
 
-[11] Ju, S., **Lim, H.**, Ma, J. W., Kim, S., Lee, K., Zhao, S., & Heo, J. (2021). Optimal county-level crop yield prediction using MODIS-based variables and weather data: A comparative study on machine learning models. *Agricultural and Forest Meteorology*, 307, 108530.
+[11] [Ju, S., **Lim, H.**, Ma, J. W., Kim, S., Lee, K., Zhao, S., & Heo, J. (2021). Optimal county-level crop yield prediction using MODIS-based variables and weather data: A comparative study on machine learning models. *Agricultural and Forest Meteorology*, 307, 108530.](https://www.sciencedirect.com/science/article/abs/pii/S0168192321002148)
 
 ### 4. Projects
 * Geospatial Big Data Management, Analysis and Service Platform Technology Development, Ministry of Land, Infrastructure and Transportation, Republic of Korea (국토교통부)
