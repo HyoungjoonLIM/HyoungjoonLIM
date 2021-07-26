@@ -13,7 +13,7 @@
   - 기종점 데이터 분석 : 기종점 데이터(Origin-destination data)에 그래프 분석 기법을 적용하여 인구 이동 및 서울시 생활권 분석 등을 수행
     - 관련 산출물 : [5], [7], [9]
   - 택시 경로 데이터 분석 : 이동객체의 GPS 빅데이터를 가공하여 택시 수요 예측 모델을 구성함  
-    - 관련 산출물 : [3], 석사학위논문 
+    - 관련 산출물 : [3], [석사학위논문](#### thesis) 
  
 * **KB손해보험 디지털사업파트**
   - 스마트워크 솔루션 로그 데이터 분석 : 직원들의 협업을 돕는 스마트워크 솔루션에 축적된 데이터를 분석하여 일하는 방식 개선
@@ -44,7 +44,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 * 2010.03 ~ 2012.02 : Hansung Science High School, Seoul, Republic of Korea
 * 2012.03 ~ 2018.02 : B.S., Civil & Environmental Engineering, Yonsei University, Seoul, Republic of Korea
 * 2018.03 ~ 2020.02 : M.S., Civil & Environmental Engineering (Spatial Data Science), Yonsei University, Seoul, Republic of Korea
-  - Thesis : [Graph learning approaches for taxi demand estimation with Seoul taxi trajectory data](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=a8f0178212fa9aedffe0bdc3ef48d419)
+  #### thesis - Thesis : [Graph learning approaches for taxi demand estimation with Seoul taxi trajectory data](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=a8f0178212fa9aedffe0bdc3ef48d419)
 
 ### 2. Employment
 * 2019.12 ~ Present : KB Insurance Co., Ltd. (Digital Business Dept.)
