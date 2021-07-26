@@ -64,7 +64,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 [7] [**Lim, H.**, Kim, S., & Heo, J. (2019). Graph analyses of phone-based origin-destination data for understanding urban human mobility in seoul, korea. In *Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Prediction of Human Mobility* (pp. 62-65).](https://dl.acm.org/doi/abs/10.1145/3356995.3364539)
 
-[8] [Ju, S., **Lim, H.**, & Heo, J. (2019). Machine learning approaches for crop yield prediction with MODIS and weather data. In *40th Asian Conference on Remote Sensing: Progress of Remote Sensing Technology for Smart Future*, ACRS 2019.](https://a-a-r-s.org/proceeding/ACRS2019/TuP-11.pdf)
+[8] [Ju, S., **Lim, H.**, & Heo, J. (2020). Machine learning approaches for crop yield prediction with MODIS and weather data. In *40th Asian Conference on Remote Sensing: Progress of Remote Sensing Technology for Smart Future*, ACRS 2019.](https://yonsei.pure.elsevier.com/en/publications/machine-learning-approaches-for-crop-yield-prediction-with-modis-)
 
 [9] [Kim, S., **Lim, H.**, & Heo, J. (2020). Analysis of Seoul Living Sphere using Origin-Destination Data from a Mobile Phone Network, *The Korea Society For GeospatIal Information System*, 28(1), 3-10.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002571258)
 
