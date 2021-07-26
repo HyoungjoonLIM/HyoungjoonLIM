@@ -58,7 +58,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 [4] [Heo, J., **Lim, H.**, Yun, S. B., Ju, S., Park, S., & Lee, R. (2019). Descriptive and predictive modeling of student achievement, satisfaction, and mental health for data-driven smart connected campus life service. In *Proceedings of the 9th International Conference on Learning Analytics & Knowledge* (pp. 531-538).](https://dl.acm.org/doi/abs/10.1145/3303772.3303792)
 
-[5] **Lim, H.**, Kim, S., & Heo, J. (2019) Community detection in Seoul using origin-destination data from mobile networks. *한국데이터정보과학회 춘계학술대회*.
+[5] [**Lim, H.**, Kim, S., & Heo, J. (2019) Community detection in Seoul using origin-destination data from mobile networks. *한국데이터정보과학회 춘계학술대회*.](https://kdiss.or.kr/%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EC%95%88%EB%82%B4/6959949)
 
 [6] [**Lim, H.**, Kim, S., & Heo, J. (2019) Outliers of the Official Land Price and Their Price Trend by Floating Population Data: A Case of Gangnam-Gu, Seoul, *The Korea Society For GeospatIal Information System*, 27(5), 41-49.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002505506)
 
