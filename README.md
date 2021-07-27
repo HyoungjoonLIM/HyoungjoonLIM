@@ -50,7 +50,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 * 2019.12 ~ Present : KB Insurance Co., Ltd. (Digital Business Dept.)
 
 ### 3. Publication (in chronological order)
-[1] [Yun, S. B., Hieu, N. M., Park, S. Y., <u>**Lim, H.**</u>, & Heo, J. (2018). Implementation of Floating Population Analysis for Smart Cities: A case study in Songdo Incheon South Korea. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 32-36).](https://dl.acm.org/doi/abs/10.1145/3283590.3283595)
+[1] [Yun, S. B., Hieu, N. M., Park, S. Y., <span style="color:black>**Lim, H.**</span>, & Heo, J. (2018). Implementation of Floating Population Analysis for Smart Cities: A case study in Songdo Incheon South Korea. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 32-36).](https://dl.acm.org/doi/abs/10.1145/3283590.3283595)
 
 [2] [Ju, S., Park, S., **Lim, H.**, Yun, S. B., & Heo, J. (2018). Spatial-data-driven student characterization: Trajectory sequence alignment based on student smart card transactions. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 1-7).](https://dl.acm.org/doi/abs/10.1145/3283590.3283591)
 
