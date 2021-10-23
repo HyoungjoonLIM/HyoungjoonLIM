@@ -71,7 +71,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 [9] [Kim, S., **Lim, H.**, & Heo, J. (2020). Analysis of Seoul Living Sphere using Origin-Destination Data from a Mobile Phone Network, *The Korea Society For GeospatIal Information System*, 28(1), 3-10.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002571258)
 
-[10] **Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2021).  Is college students’ trajectory associated with academic performance?, *The Internet and Higher Education* (Under review)
+[10] **Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2021).  Is college students’ trajectory associated with academic performance?, *The Internet and Higher Education* (Minor revision)
 
 [11] [Ju, S., **Lim, H.**, Ma, J. W., Kim, S., Lee, K., Zhao, S., & Heo, J. (2021). Optimal county-level crop yield prediction using MODIS-based variables and weather data: A comparative study on machine learning models. *Agricultural and Forest Meteorology*, 307, 108530.](https://www.sciencedirect.com/science/article/abs/pii/S0168192321002148)
 
