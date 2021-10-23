@@ -18,6 +18,7 @@
 * **KB손해보험 디지털사업파트**
   - 스마트워크 솔루션 로그 데이터 분석 : 직원들의 협업을 돕는 스마트워크 솔루션에 축적된 데이터를 분석하여 일하는 방식 개선
   - 이륜차보험 자동심사 모델 구축 : 이륜차 이미지 기반 용도 분류 모델을 구축하여 보험계약 인수 심사에 소요되는 시간 단축 
+    - 관련 보도 : [KB손해보험, ‘자동차보험 AI 자동심사 시스템’ 도입, 2021.09.14, 조선일보](https://biz.chosun.com/stock/finance/2021/09/14/SWNGDSIY7ZFCLI6CSJOXL2YQHM/) 
 
 ### 0. Summary (English)
 Master of Science in civil & environmental engineering, spatial data science. Possesses an understanding of data collection, preprocessing, analysis and interpretation of the substantial result. Research experience in applying the implications of data analysis in various fields. Currently working on digital business dept. of KB Insurance Co., Ltd.  
