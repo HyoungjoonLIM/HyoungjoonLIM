@@ -38,6 +38,8 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 * **Digital Business Dept., KB Insurance Co., Ltd.**
   - Log data analysis for the smart-work solution 
   - Building an AI model applied to the car insurance using AWS
+    - Press release : [KB손해보험, ‘자동차보험 AI 자동심사 시스템’ 도입, 2021.09.14, 조선일보](https://biz.chosun.com/stock/finance/2021/09/14/SWNGDSIY7ZFCLI6CSJOXL2YQHM/) 
+
 
 ***
 
