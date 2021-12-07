@@ -25,9 +25,9 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 * **Spatial Computing for Sustainable Infrastructure laboratory, Yonsei University** (scsi.yonsei.ac.kr)
   - Students' trajectory analysis : Analyze movement patterns by combining heterogeneous data such as building access/class attendance/space rental, and find the correlation with academic achievement
-    - related works(in 3. Publication): [2], [4], [10]
+    - related works(in 3. Publication): [2], [4], [11]
   - Crop yield prediction : Prediction of rice/soybean/corn yield using ML/DL model based on weather/MODIS data
-    - related works: [8], [11]
+    - related works: [8], [10]
   - Floating population analysis : Derives insights using land price data and floating population data(with 50m spatial resolution)
     - related works: [1], [6]  
   - O-D data analysis : Analysis of urban human mobility and living sphere based on origin-destination data from mobile networks
