@@ -5,9 +5,9 @@
 
 * **연세대학교 공간컴퓨팅연구실** (scsi.yonsei.ac.kr)
   - 학생 경로 데이터 분석 : 건물 출입/수업 출석/공간 대관 등의 이종 데이터를 결합하여 이동 패턴을 분석하고, 학업 성취도 및 설문조사 결과와의 상관관계를 확인
-    - 관련 산출물(3. Publication 참조) :  [2], [4], [10]
+    - 관련 산출물(3. Publication 참조) :  [2], [4], [11]
   - 작물 수확량 예측 : 기후 데이터, 위성영상(MODIS) 데이터 기반의 딥러닝 모델을 통해 한국과 미국의 쌀, 콩, 옥수수 수확량 예측
-    - 관련 산출물 : [8], [11]
+    - 관련 산출물 : [8], [10]
   - 유동인구 데이터 분석 : 50m 해상도의 SKT 유동인구 데이터와 공시지가 데이터 등을 결합하여 공간 분석을 통한 인사이트 도출
     - 관련 산출물 : [1], [6]  
   - 기종점 데이터 분석 : 기종점 데이터(Origin-destination data)에 그래프 분석 기법을 적용하여 인구 이동 및 서울시 생활권 분석 등을 수행
@@ -71,9 +71,9 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 [9] [Kim, S., **Lim, H.**, & Heo, J. (2020). Analysis of Seoul Living Sphere using Origin-Destination Data from a Mobile Phone Network, *The Korea Society For GeospatIal Information System*, 28(1), 3-10.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002571258)
 
-[10] **Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2021).  Is college students’ trajectory associated with academic performance?, *The Internet and Higher Education* (Minor revision)
+[10] [Ju, S., **Lim, H.**, Ma, J. W., Kim, S., Lee, K., Zhao, S., & Heo, J. (2021). Optimal county-level crop yield prediction using MODIS-based variables and weather data: A comparative study on machine learning models. *Agricultural and Forest Meteorology*, 307, 108530.](https://www.sciencedirect.com/science/article/abs/pii/S0168192321002148)
 
-[11] [Ju, S., **Lim, H.**, Ma, J. W., Kim, S., Lee, K., Zhao, S., & Heo, J. (2021). Optimal county-level crop yield prediction using MODIS-based variables and weather data: A comparative study on machine learning models. *Agricultural and Forest Meteorology*, 307, 108530.](https://www.sciencedirect.com/science/article/abs/pii/S0168192321002148)
+[11] **Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2021).  Is college students’ trajectory associated with academic performance?, *Computers & Education* (**Accepted**)
 
 ### 4. Projects
 * Geospatial Big Data Management, Analysis and Service Platform Technology Development, Ministry of Land, Infrastructure and Transportation, Republic of Korea (국토교통부)
