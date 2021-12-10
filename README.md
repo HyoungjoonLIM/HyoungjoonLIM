@@ -73,7 +73,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 [10] [Ju, S., **Lim, H.**, Ma, J. W., Kim, S., Lee, K., Zhao, S., & Heo, J. (2021). Optimal county-level crop yield prediction using MODIS-based variables and weather data: A comparative study on machine learning models. *Agricultural and Forest Meteorology*, 307, 108530.](https://www.sciencedirect.com/science/article/abs/pii/S0168192321002148)
 
-[11] **Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2021).  Is college students’ trajectory associated with academic performance?, *Computers & Education* (**Accepted**)
+[11] [**Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2022).  Is college students’ trajectory associated with academic performance?, *Computers & Education*, 178, 104397](https://www.sciencedirect.com/science/article/abs/pii/S0360131521002748)
 
 ### 4. Projects
 * Geospatial Big Data Management, Analysis and Service Platform Technology Development, Ministry of Land, Infrastructure and Transportation, Republic of Korea (국토교통부)
