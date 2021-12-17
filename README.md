@@ -75,7 +75,10 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 
 [11] [**Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2022).  Is college students’ trajectory associated with academic performance?, *Computers & Education*, 178, 104397](https://www.sciencedirect.com/science/article/abs/pii/S0360131521002748)
 
-### 4. Projects
+### 4. Patents
+* Heo, J., **Lim, H.**,  & Ma, J. W. Taxi Demand Estimation Method Using Space Partitioning Technique(공간 분할 기법을 이용한 택시 수요량 추정방법), filed December 30, 2019, issued December 7, 2021.
+
+### 5. Projects
 * Geospatial Big Data Management, Analysis and Service Platform Technology Development, Ministry of Land, Infrastructure and Transportation, Republic of Korea (국토교통부)
   * Contributions: Spatio-temporal analysis with Spatial big data and Origin-destination data
 * Assessing Crop Production and Agricultural Environment Using Remote Sensing Techniques, Rural Development Administration, Republic of Korea (농촌진흥청)
@@ -83,10 +86,10 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 * Development of Integrated Hadoop Solution for Constructing 3D Indoor Model based on Massive Point Cloud Data, National Research Foundation of Korea, Republic of Korea (한국연구재단)
   * Contributions: Geometric modeling of 3D point cloud for as-built BIM
 
-### 5. Presentations
+### 6. Presentations
 * **Lim, H.**, “Origin-destination Graph Analysis for Understanding Urban Human Mobility”, Graduate School of Environmental Studies, Seoul National University, Seoul, Republic of Korea, July. 17, 2019.
 
-### 6. Honors & Awards
+### 7. Honors & Awards
 * Best Oral Presentation Award (The Korean Data & Information Science Society, Republic of Korea)
   - Awarded the Best Presenter by Announcing "Community Detection in Seoul using Origin-destination Data from Mobile Networks"
 * The National Scholarship for Science and Engineering (Korea Student Aid Foundation, Republic of Korea)
