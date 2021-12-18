@@ -76,7 +76,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 [11] [**Lim, H.**, Kim, S., Chung, K., Lee, K., & Heo, J. (2022).  Is college students’ trajectory associated with academic performance?, *Computers & Education*, 178, 104397](https://www.sciencedirect.com/science/article/abs/pii/S0360131521002748)
 
 ### 4. Patents
-* Heo, J., **Lim, H.**,  & Ma, J. W. Taxi Demand Estimation Method Using Space Partitioning Technique(공간 분할 기법을 이용한 택시 수요량 추정방법), filed December 30, 2019, issued December 7, 2021.
+* [Heo, J., **Lim, H.**,  & Ma, J. W. Taxi Demand Estimation Method Using Space Partitioning Technique(공간 분할 기법을 이용한 택시 수요량 추정방법), filed December 30, 2019, issued December 7, 2021.](https://doi.org/10.8080/1020190177870)
 
 ### 5. Projects
 * Geospatial Big Data Management, Analysis and Service Platform Technology Development, Ministry of Land, Infrastructure and Transportation, Republic of Korea (국토교통부)
