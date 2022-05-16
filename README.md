@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Github. I'm Hyoungjoon Lim
 
 ### 0. Summary
-데이터를 수집하고, 전처리한 후, 적합한 분석 방법을 고민하고 적용한 뒤 그 결과를 다른 사람들에게 전달하고 적용하는 일을 해왔습니다. 공간 빅데이터를 다루는 연구실에서 석사과정을 밟으며 다양한 데이터와 방법론에 대해 경험하고 공부하였습니다. 이후 대형 보험사에서 데이터 분석 결과 및 AI 모델을 비즈니스에 적용하는 일을 하고 있습니다.
+데이터를 수집하고, 전처리한 후, 적합한 분석 방법을 고민하고 적용한 뒤 그 결과를 다른 사람들에게 전달하고 적용하는 일을 해왔습니다. 공간 빅데이터를 다루는 연구실에서 석사과정을 밟으며 다양한 데이터와 방법론에 대해 경험하고 공부하였습니다. 대형 보험사에서 데이터 분석 결과 및 AI 모델을 비즈니스에 적용하는 일을 했고, 현재 하나금융융합기술원 Data Science셀에서 일하고 있습니다.
 
 * **연세대학교 공간컴퓨팅연구실** (scsi.yonsei.ac.kr)
   - 학생 경로 데이터 분석 : 건물 출입/수업 출석/공간 대관 등의 이종 데이터를 결합하여 이동 패턴을 분석하고, 학업 성취도 및 설문조사 결과와의 상관관계를 확인
@@ -21,7 +21,7 @@
     - 관련 보도 : [KB손해보험, ‘자동차보험 AI 자동심사 시스템’ 도입, 2021.09.14, 조선일보](https://biz.chosun.com/stock/finance/2021/09/14/SWNGDSIY7ZFCLI6CSJOXL2YQHM/) 
 
 ### 0. Summary (English)
-Master of Science in civil & environmental engineering, spatial data science. Possesses an understanding of data collection, preprocessing, analysis and interpretation of the substantial result. Research experience in applying the implications of data analysis in various fields. Currently working on digital business dept. of KB Insurance Co., Ltd.  
+Master of Science in civil & environmental engineering, spatial data science. Possesses an understanding of data collection, preprocessing, analysis and interpretation of the substantial result. Research experience in applying the implications of data analysis in various fields. Currently working on Data Science Cell of Hana Institute of Technology.
 
 * **Spatial Computing for Sustainable Infrastructure laboratory, Yonsei University** (scsi.yonsei.ac.kr)
   - Students' trajectory analysis : Analyze movement patterns by combining heterogeneous data such as building access/class attendance/space rental, and find the correlation with academic achievement
@@ -50,7 +50,8 @@ Master of Science in civil & environmental engineering, spatial data science. Po
   - Thesis : [Graph learning approaches for taxi demand estimation with Seoul taxi trajectory data](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=a8f0178212fa9aedffe0bdc3ef48d419)
 
 ### 2. Employment
-* 2019.12 ~ Present : KB Insurance Co., Ltd. (Digital Business Dept.)
+* 2019.12 ~ 2022.04 : KB Insurance Co., Ltd. (Digital Business Dept.)
+* 2022.05 ~ Present : Hana Institute of Technology (Data Science Cell)
 
 ### 3. Publication (in chronological order)
 [1] [Yun, S. B., Hieu, N. M., Park, S. Y., **Lim, H.**, & Heo, J. (2018). Implementation of Floating Population Analysis for Smart Cities: A case study in Songdo Incheon South Korea. In *Proceedings of the 2nd ACM SIGSPATIAL Workshop on Prediction of Human Mobility* (pp. 32-36).](https://dl.acm.org/doi/abs/10.1145/3283590.3283595)
@@ -78,7 +79,7 @@ Master of Science in civil & environmental engineering, spatial data science. Po
 ### 4. Patents
 * [Heo, J., **Lim, H.**,  & Ma, J. W. Taxi Demand Estimation Method Using Space Partitioning Technique(공간 분할 기법을 이용한 택시 수요량 추정방법), filed December 30, 2019, issued December 7, 2021.](https://doi.org/10.8080/1020190177870)
 
-### 5. Projects
+### 5. Research Projects
 * Geospatial Big Data Management, Analysis and Service Platform Technology Development, Ministry of Land, Infrastructure and Transportation, Republic of Korea (국토교통부)
   * Contributions: Spatio-temporal analysis with Spatial big data and Origin-destination data
 * Assessing Crop Production and Agricultural Environment Using Remote Sensing Techniques, Rural Development Administration, Republic of Korea (농촌진흥청)
