@@ -19,6 +19,8 @@
   - 스마트워크 솔루션 로그 데이터 분석 : 직원들의 협업을 돕는 스마트워크 솔루션에 축적된 데이터를 분석하여 일하는 방식 개선
   - 이륜차보험 자동심사 모델 구축 : 이륜차 이미지 기반 용도 분류 모델을 구축하여 보험계약 인수 심사에 소요되는 시간 단축 
     - 관련 보도 : [KB손해보험, ‘자동차보험 AI 자동심사 시스템’ 도입, 2021.09.14, 조선일보](https://biz.chosun.com/stock/finance/2021/09/14/SWNGDSIY7ZFCLI6CSJOXL2YQHM/) 
+  - 마이데이터용 간판인식 AI 모델 구축 : 스마트폰 카메라로 KB손해보험 및 5대 시중은행(국민, 신한, 하나, 우리, 농협)의 로고를 비추면 이를 인식하고 자산(은행은 예적금 및 대출, 보험은 해약환급금 등)을 보여주는 서비스 
+    - 관련 보도 : [[써보니] KB손보 마이데이터 서비스, ‘AR 자산 조회’ 다르네, 2022.05.05, 이투데이](https://www.etoday.co.kr/news/view/2130238) 
 
 ### 0. Summary (English)
 Master of Science in civil & environmental engineering, spatial data science. Possesses an understanding of data collection, preprocessing, analysis and interpretation of the substantial result. Research experience in applying the implications of data analysis in various fields. Currently working on Data Science Cell of Hana Institute of Technology.
@@ -39,6 +41,8 @@ Master of Science in civil & environmental engineering, spatial data science. Po
   - Log data analysis for the smart-work solution 
   - Building an AI model applied to the car insurance using AWS
     - Press release : [KB손해보험, ‘자동차보험 AI 자동심사 시스템’ 도입, 2021.09.14, 조선일보](https://biz.chosun.com/stock/finance/2021/09/14/SWNGDSIY7ZFCLI6CSJOXL2YQHM/) 
+  - Building a logo detection AI model for Mydata
+    - Press release : [[써보니] KB손보 마이데이터 서비스, ‘AR 자산 조회’ 다르네, 2022.05.05, 이투데이](https://www.etoday.co.kr/news/view/2130238)  
 
 
 ***
